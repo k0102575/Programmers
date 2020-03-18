@@ -1,5 +1,9 @@
 /**
 
+====================
+    6. 문자열 내 마음대로 정렬하기
+====================
+
 문제 설명
 
 문자열로 구성된 리스트 strings와, 정수 n이 주어졌을 때, 
@@ -31,6 +35,6 @@ abce와 abcd, cdx의 2번째 인덱스 값은 c, c, x입니다. 따라서 정렬
  */
 
 function solution(strings, n) {
-  var answer = [];
-  return answer;
+	var answer = [];
+	return answer;
 }

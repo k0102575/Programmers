@@ -4,11 +4,11 @@
 
 ### [2. 가운데 글자 가져오기](https://github.com/k0102575/Programmers/blob/master/level1/2_getMiddleLetter.js)
 
-### 3. 같은 숫자는 싫어
+### [3. 같은 숫자는 싫어](https://github.com/k0102575/Programmers/blob/master/level1/3_iHateSameNumbers.js)
 
-### 4. 나누어 떨어지는 숫자 배열
+### [4. 나누어 떨어지는 숫자 배열](https://github.com/k0102575/Programmers/blob/master/level1/4_fallingNumberArray.js)
 
-### 5. 두 정수 사이의 합
+### [5. 두 정수 사이의 합](https://github.com/k0102575/Programmers/blob/master/level1/5_sumTwoIntegers.js)
 
 ### 6. 문자열 내 마음대로 정렬하기
 
