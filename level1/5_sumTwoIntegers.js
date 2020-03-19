@@ -22,15 +22,15 @@ a	b	return
 
  */
 
-function adder(a, b){
-	var result = 0
+function solution(a, b){
+	var answer = 0
 
 	let smallNumber = (a <= b) ? a : b;
 	let BigNumber = (a <= b) ?  b : a;
 
-	for (let i = smallNumber; i <= BigNumber; i++) result += i;
+	for (let i = smallNumber; i <= BigNumber; i++) answer += i;
 
-    return result;
+    return answer;
 }
   
 // 아래는 테스트로 출력해 보기 위한 코드입니다.

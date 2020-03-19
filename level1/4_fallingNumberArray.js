@@ -31,7 +31,6 @@ arr의 모든 원소는 1으로 나누어 떨어집니다. 원소를 오름차�
 
  */
 
-
 function solution(arr, divisor) {
     var answer = [];
 
