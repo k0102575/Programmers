@@ -10,11 +10,11 @@
 
 ### [5. 두 정수 사이의 합](https://github.com/k0102575/Programmers/blob/master/level1/5_sumTwoIntegers.js)
 
-### 6. 문자열 내 마음대로 정렬하기
+### [6. 문자열 내 마음대로 정렬하기](https://github.com/k0102575/Programmers/blob/master/level1/6_stringMyWay.js)
 
-### 7. 문자열 내 p와 y의 개수
+### [7. 문자열 내 p와 y의 개수](https://github.com/k0102575/Programmers/blob/master/level1/7_number-of-P-and-Y-in-string.js)
 
-### 8. 문자열 내림차순으로 배치하기
+### [8. 문자열 내림차순으로 배치하기](https://github.com/k0102575/Programmers/blob/master/level1/8_stringDescending.js)
 
 ### 9. 문자열 다루기 기본
 

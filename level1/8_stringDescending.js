@@ -19,6 +19,10 @@ Zbcdefg	gfedcbZ
  */
 
 function solution(s) {
-    var answer = '';
-    return answer;
+     return s.split("").sort((a, b) => {
+        return (a < b) ? 1 : -1
+    }).join("")
+    
 }
+
+solution("Zbcdefg");
