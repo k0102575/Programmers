@@ -22,6 +22,7 @@ seoul	return
  */
 
 function solution(seoul) {
-    var answer = '';
-    return answer;
+    return "김서방은 " + seoul.indexOf("Kim") + "에 있다"
 }
+
+solution(["Jane", "Kim"])

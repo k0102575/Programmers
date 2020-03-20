@@ -18,6 +18,9 @@ a234	false
  */
 
 function solution(s) {
-    var answer = true;
-    return answer;
+    return (s.length == 4 || s.length == 6) ? (/[a-zA-Z]/.test(s)) ? false : true : false;
 }
+
+solution("a234")
+solution("1234")
+solution("1e22")
