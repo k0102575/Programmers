@@ -22,15 +22,15 @@
 
 ## [11. 완주하지 못한 선수](https://github.com/k0102575/Programmers/blob/master/level1/11_incompletePlayer.js)
 
-## 12. K번째수
+## [12. K번째수](https://github.com/k0102575/Programmers/blob/master/level1/11_incompletePlayer.js)
 
-## 13. 수박수박수박수박수박수?
+## [13. 수박수박수박수박수박수?](https://github.com/k0102575/Programmers/blob/master/level1/11_incompletePlayer.js)
 
-## 14. 평균 구하기
+## [14. 평균 구하기](https://github.com/k0102575/Programmers/blob/master/level1/14_getAverage.js)
 
-## 15. 짝수와 홀수
+## [15. 짝수와 홀수](https://github.com/k0102575/Programmers/blob/master/level1/11_incompletePlayer.js)
 
-## 16. 문자열을 정수로 바꾸기
+## [16. 문자열을 정수로 바꾸기](https://github.com/k0102575/Programmers/blob/master/level1/11_incompletePlayer.js)
 
 ## 18. 약수의 합
 
