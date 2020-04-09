@@ -60,9 +60,9 @@
 
 ## [30. 제일 작은 수 제거하기](https://github.com/k0102575/Programmers/blob/master/level1/30_removeLowNumber.js)
 
-## 31. 체육복
+## [31. 체육복](https://github.com/k0102575/Programmers/blob/master/level1/31_gymSuit.js)
 
-## 32. 자연수 뒤집어 배열로 만들기
+## [32. 자연수 뒤집어 배열로 만들기](https://github.com/k0102575/Programmers/blob/master/level1/32_naturalNumberToArray.js)
 
 ## 33. 이상한 문자 만들기
 
