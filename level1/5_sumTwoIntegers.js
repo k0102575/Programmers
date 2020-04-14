@@ -32,8 +32,10 @@ function solution(a, b){
 
     return answer;
 }
-  
+
 // 아래는 테스트로 출력해 보기 위한 코드입니다.
 console.log(adder(3, 5))
 console.log(adder(3, 3))
 console.log(adder(5, 3))
+
+// 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges

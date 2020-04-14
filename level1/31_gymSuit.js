@@ -62,3 +62,5 @@ function solution(n, lost, reserve) {
 // solution(5, [2, 4], [1, 3, 5]);
 solution(9, [2, 4, 7, 8], [3, 6, 9]);
 solution(5, [2, 4], [3, 5]);
+
+// 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges

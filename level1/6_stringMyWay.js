@@ -6,8 +6,8 @@
 
 문제 설명
 
-문자열로 구성된 리스트 strings와, 정수 n이 주어졌을 때, 
-각 문자열의 인덱스 n번째 글자를 기준으로 오름차순 정렬하려 합니다. 
+문자열로 구성된 리스트 strings와, 정수 n이 주어졌을 때,
+각 문자열의 인덱스 n번째 글자를 기준으로 오름차순 정렬하려 합니다.
 예를 들어 strings가 [sun, bed, car]이고 n이 1이면 각 단어의 인덱스 1의 문자 u, e, a로 strings를 정렬합니다.
 
 제한 조건
@@ -43,12 +43,14 @@ function solution(strings, n) {
 		} else if(a.charAt(n) > b.charAt(n)) {
 			return 1;
 		} else {
-			return (a < b) ? -1 : 1; 
+			return (a < b) ? -1 : 1;
 		}
 
 	});
-	
+
 }
 
 solution(["sun", "bed", "car"], 1);
 solution(["abce", "abcd", "cdx"], 2);
+
+// 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges

@@ -23,3 +23,5 @@ str은 부호(+,-)와 숫자로만 구성되어 있고, 잘못된 값이 입력�
 function solution(s) {
     return parseInt(s);
 }
+
+// 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges

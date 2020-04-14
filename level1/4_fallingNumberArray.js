@@ -35,10 +35,12 @@ function solution(arr, divisor) {
     var answer = [];
 
     for (let i = 0; i < arr.length; i++) if(!(arr[i] % divisor)) answer.push(arr[i])
-    
+
     return (answer.length)  ? answer.sort((a, b)=> a - b) : [-1];
 }
 
 console.log(solution([5, 9, 7, 10], 5));
 console.log(solution([2, 36, 1, 3], 1));
 console.log(solution([3, 2, 6], 10));
+
+// 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges

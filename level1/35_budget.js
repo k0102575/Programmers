@@ -57,3 +57,5 @@ function solution(d, budget) {
 
 // solution([1, 3, 2, 5, 4], 9)
 // solution([2, 2, 3, 3], 10)
+
+// 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges
