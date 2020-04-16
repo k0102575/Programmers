@@ -64,11 +64,11 @@
 
 ## [32. 자연수 뒤집어 배열로 만들기](https://github.com/k0102575/Programmers/blob/master/level1/32_naturalNumberToArray.js)
 
-## 33. 이상한 문자 만들기
+## [33. 이상한 문자 만들기](https://github.com/k0102575/Programmers/blob/master/level1/33_makeStrangeLetter.js)
 
-## 34. 정수 내림차순으로 배치하기
+## [34. 정수 내림차순으로 배치하기](https://github.com/k0102575/Programmers/blob/master/level1/34_integerDescendingOrder.js)
 
-## 35. 예산
+## [35. 예산](https://github.com/k0102575/Programmers/blob/master/level1/35_budget.js)
 
 ## 36. 실패율
 
