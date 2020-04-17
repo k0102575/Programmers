@@ -65,15 +65,21 @@ N	stages	                    result
 
 function solution(N, stages) {
     stages.sort((a, b) => a - b);
-    let resultArr = []
+    let resultArr = [];
+
     for (let i = 1; i <= N; i++) {
         let failCount = stages.filter(e => e == i).length;
         let successCount = stages.filter(e => e >= i).length;
-        resultArr.push((failCount == 0 || successCount == 0) ? 0 : failCount / successCount)
+        resultArr.push({
+            failPercent : (failCount == 0 || successCount == 0) ? 0 : failCount / successCount,
+            stage : i
+        })
     }
 
-    return new Array(N).fill(true).map((e, i) => i).sort((a, b) => resultArr[a] >= resultArr[b] ? -1 : resultArr[a] < resultArr[b] ? 1 : 0).map(e => e + 1);
+    return resultArr
+            .sort((a, b) => (b.failPercent != a.failPercent) ? b.failPercent - a.failPercent : a.stage - b.stage)
+            .map(e => e.stage);
 }
 
-console.log(solution(5, [2, 1, 2, 6, 2, 4, 3, 3]))
-console.log(solution(4, [4,4,4,4,4]))
+solution(5, [2, 1, 2, 6, 2, 4, 3, 3])
+solution(4, [4,4,4,4,4])

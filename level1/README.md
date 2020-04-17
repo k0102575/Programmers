@@ -70,7 +70,7 @@
 
 ## [35. 예산](https://github.com/k0102575/Programmers/blob/master/level1/35_budget.js)
 
-## 36. 실패율
+## [36. 실패율](https://github.com/k0102575/Programmers/blob/master/level1/36_failureRate.js)
 
 ## 37. 비밀지도
 
